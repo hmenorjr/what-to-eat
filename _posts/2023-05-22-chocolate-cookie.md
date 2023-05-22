@@ -5,7 +5,7 @@ date: 2023-05-22
 categories: [recipes, desserts]
 ---
 
-![Chocolate Chip Cookies](/images/chocolate-cookies.jpg)
+![Chocolate Chip Cookies](/what-to-eat/images/chocolate-cookies.jpg)
 
 This is the recipe for delicious chocolate chip cookies. Enjoy!
 
