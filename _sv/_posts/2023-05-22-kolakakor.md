@@ -7,7 +7,7 @@ categories: [recipes, desserts]
 
 ![Kolakakor](/what-to-eat/images/kolakakor.jpg)
 
-## Ingredients:
+## Ingredienser:
 - 50 g smör
 - 1/2 dl strösocker
 - 1/2 msk vaniljsocker
@@ -15,7 +15,7 @@ categories: [recipes, desserts]
 - 1 - 1 1/2 dl vetemjöl
 - 1/2 tsk bakpulver
 
-## Instructions:
+## Instruktioner:
 1. Sätt ugnen på 175 grader (över och undervärme)
 2. Dela smöret i små klickar och lägg i en bunke
 3. Tillsät sirap
