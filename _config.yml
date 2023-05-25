@@ -1,7 +1,7 @@
 title: What to Eat
-email: your-email@example.com
+email: overbid.beasts-0a@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of recipe.
+  A collection of recipes.
 baseurl: "/what-to-eat" # the subpath of your site, e.g. /blog
 url: "https://hmenorjr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hmenorjr

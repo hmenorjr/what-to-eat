@@ -1,2 +1,2 @@
 # what-to-eat
-Collection of food.
+A collection of recipes.
