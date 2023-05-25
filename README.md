@@ -1,2 +1,2 @@
 # what-to-eat
-Library of food to eat
+Collection of food.
