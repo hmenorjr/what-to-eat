@@ -8,8 +8,8 @@ Hello, welcome to `what-to-eat`! This website will contain a library of recipes.
 cook or bake. The end goal is to randomize a page based on the category and a button to invoke the random recipe.
 
 ### For English
-[English Recipes](https://hmenorjr.github.io/what-to-eat/en/)
-[Svenska Recept](https://hmenorjr.github.io/what-to-eat/sv/)
+- [English Recipes](https://hmenorjr.github.io/what-to-eat/en/)
+- [Svenska Recept](https://hmenorjr.github.io/what-to-eat/sv/)
 
 - You can find the source code for Minima at GitHub: [minima](https://github.com/jekyll/minima)
 - You can find the source code for Jekyll at GitHub: [jekyll](https://github.com/jekyll/jekyll)

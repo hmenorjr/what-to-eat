@@ -3,7 +3,6 @@ layout : post
 title: Caramel Cookies
 date: 2023-05-22
 categories: [baking]
-permalink: /2023/05/22/caramel-cookies.htm
 ---
 
 ![Kolakakor](/what-to-eat/images/kolakakor.jpg)

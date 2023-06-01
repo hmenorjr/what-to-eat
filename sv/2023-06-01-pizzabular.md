@@ -1,8 +1,8 @@
 ---
 layout : post
 title: Pizzabullar
+date: 2023-06-01
 categories: [sv, bakning]
-permalink: /sv/2023/06/01/pizzabular
 ---
 
 ![Kolakakor](/what-to-eat/images/pizza-buns.jpg)
