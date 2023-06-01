@@ -2,7 +2,7 @@
 layout : post
 title: Pizzaullar
 date: 2023-06-01
-categories: [recipes, baking]
+categories: [sv, bakning]
 ---
 
 ![Kolakakor](/what-to-eat/images/pizza-buns.jpg)
