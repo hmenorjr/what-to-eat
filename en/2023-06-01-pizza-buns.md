@@ -1,8 +1,8 @@
 ---
 layout : post
 title: Pizza Buns
-date: 2023-06-01
-categories: [en, baking]
+categories: [baking]
+permalink: /2023/06/01/pizza-buns.html
 ---
 
 ![Kolakakor](/what-to-eat/images/pizza-buns.jpg)
